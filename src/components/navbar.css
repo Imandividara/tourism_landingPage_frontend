@@ -1,0 +1,8 @@
+.navbar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    --tw-bg-opacity: 0.75;
+    --tw-text-opacity: 1;
+}
